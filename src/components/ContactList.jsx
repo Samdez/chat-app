@@ -3,29 +3,26 @@ import Contact from "./Contact";
 
 const users = [
   {
-    name: "Robert Reyes",
+    name: "Robert Rilès",
     avatar: "https://randomuser.me/api/portraits/men/28.jpg",
-    online: false,
   },
   {
-    name: "Nellie Caldwell",
+    name: "Nellie CaldwellplayedMrBond",
     avatar: "https://randomuser.me/api/portraits/women/17.jpg",
     online: true,
   },
   {
-    name: "Vernon Mason",
+    name: "Vernon Masonofabitch",
     avatar: "https://randomuser.me/api/portraits/men/84.jpg",
-    online: true,
   },
   {
-    name: "Erica Hunt",
+    name: "Erica Hunterminator",
     avatar: "https://randomuser.me/api/portraits/women/87.jpg",
-    online: false,
+    online: true,
   },
   {
-    name: "Juanita Phillips",
+    name: "Juanita Sony",
     avatar: "https://randomuser.me/api/portraits/women/55.jpg",
-    online: true,
   },
 ];
 
