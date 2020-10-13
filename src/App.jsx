@@ -1,5 +1,6 @@
 import React from "react";
 import Contact from "./components/Contact";
+import ContactList from "./components/ContactList";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
         avatar="https://randomuser.me/api/portraits/women/66.jpg"
         online
       />
+      <ContactList />
     </div>
   );
 }
