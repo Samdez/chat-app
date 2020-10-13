@@ -5,7 +5,7 @@ import "./Contact.css";
 const Contact = (props) => {
   return (
     <div className="Contact">
-      <img className="avatar" src={props.avatar} alt={props.name}/>
+      <img className="avatar" src={props.avatar} alt={props.name} />
       <div>
         <div className="name">{props.name}</div>
         <div className="status">
